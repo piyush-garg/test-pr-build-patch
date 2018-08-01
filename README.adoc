@@ -35,7 +35,7 @@ If you have a single-node OpenShift cluster, such as Minishift or Red Hat Contai
 
 To deploy your booster to a running single-node OpenShift cluster:
 
-. Log in and create your project.
+. Log in and create your project
 +
 [source,bash,options="nowrap",subs="attributes+"]
 ----
